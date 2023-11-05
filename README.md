@@ -11,4 +11,4 @@ Hello! I'm Kaleb B, a graphic designer, music producer, content creator, and dev
 
 ### Incoming Projects
 - TetraOS: Experience the Future with one of the best Linux distros yet (Collab w/ @CruxSchildt)
-- Square One: An amazing electronic album coming June 2023.
+- Surrender: An electrifying techno and house album coming February 2024.
