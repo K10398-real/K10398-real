@@ -16,3 +16,6 @@ Hello! I'm Kaleb B, a graphic designer, music producer, content creator, and dev
 ### Currently Learning
 - Python
 - (Maybe) JavaScript
+
+### Contact
+entertainment.k10398@gmail.com
