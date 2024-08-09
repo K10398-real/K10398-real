@@ -1,5 +1,5 @@
 # 💻Kaleb B
-Hello! I'm Kaleb B, a graphic designer, music producer, content creator, and developer-in-training that works on very big and amazing projects that will blow your mind. I have experience with many tools. When not working on large projects, I am performing in an orchestra, playing sports, and occasionally playing retro games on my Windows XP virtual machine.
+Hello! I'm Kaleb B, a graphic designer, music producer, and developer-in-training that is constantly bringing something new to the table. I have experience with many tools, software, and other things. When not working on large projects, I am performing in my high school orchestra, competitively trail running, and occasionally playing retro games on my Windows XP virtual machine.
 
 ### ✅Overall Experience
 - Microsoft Windows, Ubuntu, Arch Linux
@@ -11,11 +11,11 @@ Hello! I'm Kaleb B, a graphic designer, music producer, content creator, and dev
 
 ### ❗Incoming Projects
 - TetraOS: Experience the Future with one of the best Linux distros yet (Collab w/ @CruxSchildt)
-- Surrender: An electrifying techno and house album coming February 2024.
+- Dreamer Boy: An album showcasing my best techno & trance works, releasing October 18th, 2024
 
 ### 📚Currently Learning
-- Python
-- (Maybe) JavaScript
+- C++
+- NextJS
 
 ### 🪪Contact
 entertainment.k10398@gmail.com
