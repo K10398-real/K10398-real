@@ -11,11 +11,11 @@ Hello! I'm Kaleb B, a graphic designer, music producer, and developer-in-trainin
 
 ### ❗Incoming Projects
 - TetraOS: Experience the Future with one of the best Linux distros yet (Collab w/ @CruxSchildt)
-- Dreamer Boy: An album showcasing my best techno & trance works, releasing October 18th, 2024
+- Vision Warp: A new album with a surreal experience, dropping March 2025
 
 ### 📚Currently Learning
 - C++
-- NextJS
+- JavaScript
 
 ### 🪪Contact
 entertainment.k10398@gmail.com
